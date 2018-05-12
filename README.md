@@ -20,7 +20,7 @@ If the following apply to you:
 
 Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/projects/1) and create an issue under the 'To Do' column--click on the plus sign and add a description of the task to be completed.
 
-Content:
+# Content:
 1. Algorithms
     1. [Binary Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Binary%20Search)
     2. [Breadth First Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Breadth%20First%20Search)
