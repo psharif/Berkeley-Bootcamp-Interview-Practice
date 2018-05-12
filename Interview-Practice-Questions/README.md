@@ -7,7 +7,7 @@ in this README.
 Question Content includes:
 
 ## Questions Answered:
-** * Strings
+* Strings
   * Reverse String.
 
 ## Questions To Be Answered: (Please Add them to Answered if you found an answer.)
