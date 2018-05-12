@@ -14,3 +14,5 @@
 	add5(10); // returns 15
 	```
 	You might think that add5 wouldn't work, as once it is returned from the original function, var x no longer seems to be defined. However, x is actually still within the lexical environment of add5, so it's still accessible from within the add5 function only. That's just one of JavaScript's quirks.
+	
+[Here's](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) another Source that Explains Closures.
