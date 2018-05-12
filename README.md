@@ -10,6 +10,16 @@ problem or can understand your thought process for the question.
 There will also be a Slack channel on the Berkeley Bootcamp Slack if you guys wanna discuss any questions you are having or 
 resources you might be using. 
 
+#Tasks
+If the following apply to you:
+*You have something in mind you want to add to the repo but want to contribute at a later time.
+*You want a question or problem you want answered.
+*You see an error that need correction.
+*If you have an idea for enhancements.
+*If you have a request to add additional resources.
+
+Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/projects/1) and create an issue under the 'To Do' column--click on the plus sign and add a description of the task to be completed.
+
 Content:
 1. Algorithms
     1. [Binary Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Binary%20Search)
