@@ -4,8 +4,6 @@ If you have any questions you have solved or unsolved add them here.
 If you want a question to be answered Add it to the I want it answered List
 in this README.
 
-Question Content includes:
-
 ## Questions Answered:
 * Strings
   * Reverse String.
