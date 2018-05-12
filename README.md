@@ -14,7 +14,7 @@ resources you might be using.
 If the following apply to you:
 * You have something in mind you want to add to the repo but want to contribute at a later time.
 * You want a question or problem you want answered.
-* You see an error that need correction.
+* You see an error that needs to be corrected.
 * If you have an idea for enhancements.
 * If you have a request to add additional resources.
 
