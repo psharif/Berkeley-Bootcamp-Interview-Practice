@@ -33,3 +33,6 @@ Content:
     5. Stacks
     6. Tries
     7. Vectors/ArrayLists
+4. Frameworks
+    1. React
+5. JavaScript Concepts
