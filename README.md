@@ -12,7 +12,7 @@ resources you might be using.
 
 Content:
 1. Algorithms
-    1. [Binary Search Link] (https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Binary%20Search)
+    1. [Binary\ Search Link](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Binary%20Search)
     2. Breadth First Search
     3. Depth First Search
     4. Merge Sort
