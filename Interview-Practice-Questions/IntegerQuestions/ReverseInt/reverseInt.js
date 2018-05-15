@@ -17,5 +17,16 @@ function reverseInt(n) {
     return parseInt(arr.reverse().join("")) * Math.sign(n);
 }
 
+
+function reverseInt2(n) {
+  const reversed = n
+    .toString()
+    .split('')
+    .reverse()
+    .join('');
+
+  return parseInt(reversed) * Math.sign(n);
+}
+
 console.log(`Reverse of 15 is ${reverseInt(15)}`);
 console.log(`Reverse of 981 is ${reverseInt(189)}`);
