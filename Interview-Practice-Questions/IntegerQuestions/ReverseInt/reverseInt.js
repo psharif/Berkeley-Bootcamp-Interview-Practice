@@ -19,12 +19,19 @@ function reverseInt(n) {
 
 
 function reverseInt2(n) {
+  /// Turn number into a string. Split the string into an array.
+  /// Reverse the array. Then join the array making a new string.
+  /// Assign the new string to a variable called reversed.
   const reversed = n
     .toString()
     .split('')
     .reverse()
     .join('');
-
+  /// Parse the reversed strint to get the integer value.
+  /// Multiply by the sign value
+  /// (If it's negative -1, positive 1, zero 0)
+  /// of the number.
+  /// Return this value.
   return parseInt(reversed) * Math.sign(n);
 }
 
