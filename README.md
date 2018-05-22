@@ -54,7 +54,6 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
         * [Palindromes](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/Palindrome)
         * [Reverse Strings](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/ReverseString)
         * [Capitalize Words](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/capitalize)
-        * [Find the Most Frequent Character in a String](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/maxChars)
         * [Validate Anagrams](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/validateAnagram)
         * [Vowels](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/vowels)
     * [Integer Problems](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/IntegerQuestions)
