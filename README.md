@@ -47,12 +47,19 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
     1. [React](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks/React)
 5. JavaScript Concepts
 6. [Interview-Practice-Questions](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions)
-    * [Arrays](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayProblems)
-        *
-    * [Strings](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringProblems)
-        *
-    * [Integer Problems](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/IntegerProblems)
-        *
+    * [Arrays](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions)
+        *[Array Chunking](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions/ArrayChunking)
+    * [Strings](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions)
+        *[Counting Duplicates](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/CountingDuplicates)
+        *[Palindromes](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/Palindrome)
+        *[Reverse Strings](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/ReverseString)
+        *[Capitalize Words](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/capitalize)
+        *[Find the Most Frequent Character in a String](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/maxChars)
+        *[Validate Anagrams](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/validateAnagram)
+        *[Vowels](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/vowels)
+    * [Integer Problems](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/IntegerQuestions)
+        *[FizzBuzz](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/IntegerQuestions/FizzBuzz)
+        *[Reverse an Integer](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/IntegerQuestions/ReverseInt)
     * [Recursion Problems](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems)
-        * [Pyramid](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/pyramid)
-        * [Stair](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/stair)
+        * [Print a Pyramid](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/pyramid)
+        * [Print Stairs](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/stair)
