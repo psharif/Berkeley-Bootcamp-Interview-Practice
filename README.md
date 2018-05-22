@@ -48,6 +48,11 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
 5. JavaScript Concepts
 6. Interview-Practice-Questions
     * Arrays
+        *
     * Strings
+        *
     * Integer Problems
+        *
     * Recursion Problems
+        * [Pyramid](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/pyramid)
+        * [Stair](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/stair)
