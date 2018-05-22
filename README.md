@@ -46,13 +46,13 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
 4. Frameworks
     1. [React](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks/React)
 5. JavaScript Concepts
-6. Interview-Practice-Questions
-    * Arrays
+6. [Interview-Practice-Questions](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions)
+    * [Arrays](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayProblems)
         *
-    * Strings
+    * [Strings](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringProblems)
         *
-    * Integer Problems
+    * [Integer Problems](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/IntegerProblems)
         *
-    * Recursion Problems
+    * [Recursion Problems](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems)
         * [Pyramid](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/pyramid)
         * [Stair](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/stair)
