@@ -25,13 +25,16 @@ function pyramid(n) {
     /// For all the columns in the row.
     /// (Remember a column is equal to 2 * (number of rows) - 1)
     for(let col = 0; col < 2 * n - 1 ; col++){
-      /// If the
+      // If the length of the current string is greater than the midpoint - the current row.
+      // And the string length is less than or equal to the sum of midpoint + the current row.
+      // Add a '#'. Else add a Space.
       if( midpoint - row <= col && midpoint + row >= col ){
         str += "#";
       }else {
         str += " ";
       }
     }
+    // Print out the string.
     console.log(str);
   }
 }
@@ -58,8 +61,9 @@ function pyramid2(n, rows = 0, str = "") {
 
   /// Create a temporary string variable to pass into recursive function.
   let tempStr = "";
-  // If the length of the current string is less than or equal to the current row.
-  // Add a "#". Otherwise add a space.
+  // If the length of the current string is greater than the midpoint - the current row.
+  // And the string length is less than or equal to the sum of midpoint + the current row.
+  // Add a '#'. Else add a Space.
   if( midpoint - rows <= str.length && midpoint + rows >= str.length ){
     tempStr += "#";
   }else{
