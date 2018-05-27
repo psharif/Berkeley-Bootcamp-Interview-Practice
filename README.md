@@ -21,14 +21,14 @@ If the following apply to you:
 Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/projects/1) and create an issue under the 'To Do' column--click on the plus sign and add a description of the task to be completed.
 
 # Content:
-1. Algorithms
+1. [Algorithms](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms)
     * [Binary Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Binary%20Search)
     * [Breadth First Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Breadth%20First%20Search)
     * [Depth First Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Depth%20First%20Search)
     * [Merge Sort](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Merge%20Sort)
     * [Quick Sort](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Quick%20Sort)
     * [Tree Insert/Find/etc](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Tree%20Insert-Find-etc)
-2. Concepts
+2. [Concepts](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts)
     * [Big-O Time](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Big-O%20Time)
     * [Bit Manipulation](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Bit%20Manipulation)
     * [Factory Design Pattern](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Factory%20Design%20Pattern)
@@ -45,9 +45,9 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
     * [Vectors/ArrayLists](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Vectors_ArrayLists)
     * [Matrices](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Matrices)
         * [SpiralMatrix](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Matrices/SpiralMatrix)   
-4. Frameworks
+4. [Frameworks](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks)
     * [React](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks/React)
-5. JavaScript Concepts
+5. [JavaScript Concepts](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks)
 6. [Interview-Practice-Questions](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions)
     * [Arrays](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions)
         * [Array Chunking](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions/ArrayChunking)
