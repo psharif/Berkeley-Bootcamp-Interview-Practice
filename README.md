@@ -22,19 +22,19 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
 
 # Content:
 1. Algorithms
-    1. [Binary Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Binary%20Search)
-    2. [Breadth First Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Breadth%20First%20Search)
-    3. [Depth First Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Depth%20First%20Search)
-    4. [Merge Sort](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Merge%20Sort)
-    5. [Quick Sort](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Quick%20Sort)
-    6. [Tree Insert/Find/etc](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Tree%20Insert-Find-etc)
+    * [Binary Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Binary%20Search)
+    * [Breadth First Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Breadth%20First%20Search)
+    * [Depth First Search](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Depth%20First%20Search)
+    * [Merge Sort](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Merge%20Sort)
+    * [Quick Sort](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Quick%20Sort)
+    * [Tree Insert/Find/etc](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Algorithms/Tree%20Insert-Find-etc)
 2. Concepts
-    1. [Big-O Time](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Big-O%20Time)
-    2. [Bit Manipulation](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Bit%20Manipulation)
-    3. [Factory Design Pattern](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Factory%20Design%20Pattern)
-    4. [Memory (Stack vs Heap)](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Memory%20(Stack%20vs%20Heap))
-    5. [Recursion](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Recursion)
-    6. [Singleton Design Pattern](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Singleton%20Desgin%20Pattern)
+    * [Big-O Time](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Big-O%20Time)
+    * [Bit Manipulation](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Bit%20Manipulation)
+    * [Factory Design Pattern](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Factory%20Design%20Pattern)
+    * [Memory (Stack vs Heap)](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Memory%20(Stack%20vs%20Heap))
+    * [Recursion](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Recursion)
+    * [Singleton Design Pattern](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Singleton%20Desgin%20Pattern)
 3. [Data Structures](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures)
     * [Binary Trees](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Binary%20Trees)
     * [Hash Tables](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Hash%20Tables)
@@ -46,7 +46,7 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
     * [Matrices](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Matrices)
         * [SpiralMatrix](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Matrices/SpiralMatrix)   
 4. Frameworks
-    1. [React](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks/React)
+    * [React](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks/React)
 5. JavaScript Concepts
 6. [Interview-Practice-Questions](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions)
     * [Arrays](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions)
