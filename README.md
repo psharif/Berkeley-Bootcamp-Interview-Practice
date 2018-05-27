@@ -35,7 +35,7 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
     4. [Memory (Stack vs Heap)](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Memory%20(Stack%20vs%20Heap))
     5. [Recursion](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Recursion)
     6. [Singleton Design Pattern](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Singleton%20Desgin%20Pattern)
-3. [Data Structures]
+3. [Data Structures](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures)
     1. [Binary Trees](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Binary%20Trees)
     2. [Hash Tables](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Hash%20Tables)
     3. [Linked Lists](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Linked%20Lists)
