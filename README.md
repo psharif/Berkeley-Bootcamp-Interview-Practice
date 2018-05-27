@@ -35,7 +35,7 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
     4. [Memory (Stack vs Heap)](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Memory%20(Stack%20vs%20Heap))
     5. [Recursion](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Recursion)
     6. [Singleton Design Pattern](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Concepts/Singleton%20Desgin%20Pattern)
-3. Data Structures
+3. [Data Structures]
     1. [Binary Trees](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Binary%20Trees)
     2. [Hash Tables](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Hash%20Tables)
     3. [Linked Lists](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Linked%20Lists)
@@ -43,6 +43,8 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
     5. [Stacks](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Stacks)
     6. [Tries](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Tries)
     7. [Vectors/ArrayLists](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Vectors_ArrayLists)
+    8. [Matrices](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Matrices)
+        * [SpiralMatrix](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Data%20Structures/Matrices/SpiralMatrix)   
 4. Frameworks
     1. [React](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Frameworks/React)
 5. JavaScript Concepts
