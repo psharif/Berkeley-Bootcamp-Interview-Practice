@@ -1,10 +1,15 @@
-function pyramid(n, m) {
-	if (!m && n > 0) {
-		var max = 2 * n - 1;
-		liner(max - 2*(n-1), n-1, "");
-		pyramid(n - 1, max);
-	}
-	else if (m && n > 0) {
+// For each time pyramid is called, one line is printed
+// using the "liner" helper function.
+// "pyramid"s second argument m is given a default value
+// for the first time the function is called, after 
+// which it will be overwritten to keep m constant
+// while n is given a new value each call.
+
+// n – the integer passed in originally – is 
+// the number of rows; 2n - 1 is the number of columns,
+// or the number of hashtags at the base of the pyramid.
+function pyramid(n, m = 2*n - 1) {
+	if (n > 0) {
 		liner(m - 2*(n-1), n-1, "");
 		pyramid(n - 1, m);
 	}
@@ -27,4 +32,4 @@ function liner(hashes, spaces, lineString) {
 	}
 }
 
-pyramid(9);
+pyramid(11);
