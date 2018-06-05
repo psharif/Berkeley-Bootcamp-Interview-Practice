@@ -8,6 +8,21 @@
 //     q.add(1);
 //     q.remove(); // returns 1;
 
-class Queue {}
+class Queue {
+  /// Creates an instance of the class and makes a variable
+  /// of an array.
+  constructor(){
+    this.data = [];
+  }
+  /// If the Enqueue or (add) is called add an element to front of the Queue.
+  /// We are using unshift on the array for this functionality
+  add(record){
+    this.data.unshift(record);
+  }
+  /// If the Dequeue or (remove) is called remove an element to front of the Queue.
+  /// We are using pop on the array for this functionality then we return the element.
+  remove(record){
+    return this.data.pop(record);
+  }
 
-module.exports = Queue;
+}
