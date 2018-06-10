@@ -11,6 +11,6 @@ A __Node__ has two important Properties:
 
 * A linked List has two important Nodes.
 The __Head__ and __Tail__.
-    * The __Head__ is the __first node__ and has __No other Node reference it__.
+    * The __Head__ is the __first node__ and has __No other Node references it__.
     * The __Tail__ is the __last node__ and __does not reference another node. It instead
       references Null__.
