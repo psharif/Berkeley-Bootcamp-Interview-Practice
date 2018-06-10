@@ -1,8 +1,10 @@
 # Linked Lists are a data structure.
 ## They appear a lot in Programming Interviews.
 
-Linked Lists have a Sub Class or Object that is called a __Node__: 
+Linked Lists have a Sub Class or Object that is called a __Node__:
+
 A __Node__ has two important Properties: 
+
 * Data. ( Can be a Number, A String, An Object etc. )
 * A reference to the next Node.
 ( A reference is when you store the memory address of an data type, as a property of a class or object ).
