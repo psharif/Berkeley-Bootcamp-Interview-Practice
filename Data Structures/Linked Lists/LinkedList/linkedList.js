@@ -58,7 +58,6 @@ class LinkedList{
   clear(){
     this.head = null;
   }
-  /// Removes the First Node in a LinkedList.
   removeFirst(){
     /// Declare a variable to point to the first node.
     const firstNode = this.head;
@@ -97,6 +96,7 @@ class LinkedList{
     /// Set the previous reference to Null.
     previous.next = null;
   }
+  ///Inserts an element at the end of a linkedList.
   insertLast(data){
     /// Gets the last node in the LinkedList.
     const lastNode = this.getLast();
@@ -109,6 +109,7 @@ class LinkedList{
       this.head = new Node(data);
     }
   }
+  /// Gets an element at a given index.
   getAt(index){
     /// Sets a reference to Head.
     let node = this.head;
@@ -128,4 +129,79 @@ class LinkedList{
     /// Or there aren't any nodes in the list.
     return null;
   }
+  /// Removes an element of a given index.
+  removeAt( index ){
+    /// If the linkedList is empty, don't go any further.
+    if( !this.head ){
+      return;
+    }
+    /// If the desired index to be removed is the first node.
+    if( index === 0 ){
+      /// Set the head to the second Node.
+      this.head = this.head.next;
+      return;
+    }
+    ///Get the element before the desired index.
+    let previous = this.getAt(index - 1);
+    /// If getAt() does not return a node
+    /// or if the next node after previous is null,
+    /// don't go any further. We can't remove the desired index.
+    if( !previous || !previous.next ){
+        return;
+    }
+    /// Otherwise set the next reference of the previous node to the.
+    /// Node after the one being removed.
+    previous.next = previous.next.next;
+  }
+  ///Inserts an element at a given index.
+  insertAt( data, index ){
+    /// If the the list is empty
+    if( !this.head ){
+      /// Create a new element and have head reference it.
+      this.head = new Node(data);
+    }
+    /// If we want to insert an element at the first index.
+    if( index == 0){
+      /// Create an element and point the new element to the previous first element.
+      this.head = new Node(data, this.head);
+      return;
+    }
+    /// Find the previous element of the linked list.
+    /// If the desired index is out of bounds, then get the last element.
+    const previous = this.getAt( index - 1 ) || this.getLast();
+    /// Create a new Node that will point to the previous next node.
+    const node = new Node(data, previous.next);
+    /// Previous node will now reference the current node.
+    previous.next = node;
+  }
+  ///Creates a forEach Loop for the linkedList
+  forEach( func ){
+    /// Start the linkedList at the Head.
+    let node = this.head;
+    /// Create a count variable to go the length of the list.
+    let count = 0;
+    /// While the nodes aren't null.
+    while( node ){
+      /// Call the function on the node. Passing in count.
+      func( node, count );
+      /// Increment Count.
+      count++;
+      /// Go to the next node.
+      node = node.next;
+    }
+  }
+
+  /// Create a Generator with an iterator.
+  *[Symbol.iterator]() {
+    /// Start the loop at the first element in the linked list.
+    let node = this.head;
+    /// While node isn't null.
+    while (node) {
+      /// Use yield to yield the value.
+      yield node;
+      /// Go to the next node.
+      node = node.next;
+    }
+  }
+
 }
