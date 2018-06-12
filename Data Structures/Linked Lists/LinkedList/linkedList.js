@@ -190,7 +190,6 @@ class LinkedList{
       node = node.next;
     }
   }
-
   /// Create a Generator with an iterator.
   *[Symbol.iterator]() {
     /// Start the loop at the first element in the linked list.
@@ -203,5 +202,4 @@ class LinkedList{
       node = node.next;
     }
   }
-
 }
