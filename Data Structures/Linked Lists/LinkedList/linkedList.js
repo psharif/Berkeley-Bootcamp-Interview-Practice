@@ -109,4 +109,23 @@ class LinkedList{
       this.head = new Node(data);
     }
   }
+  getAt(index){
+    /// Sets a reference to Head.
+    let node = this.head;
+    /// Sets a count to check against the desired index.
+    let count = 0;
+    /// While there is a node remaining to check in the list.
+    while( node ){
+      /// If you have reached the desired index return the node.
+      if( count == index){
+        return node;
+      }
+      /// otherwise increment count and go to the next node.
+      count++;
+      node = node.next;
+    }
+    /// Return null if it the desired index is not in the list.
+    /// Or there aren't any nodes in the list.
+    return null;
+  }
 }
