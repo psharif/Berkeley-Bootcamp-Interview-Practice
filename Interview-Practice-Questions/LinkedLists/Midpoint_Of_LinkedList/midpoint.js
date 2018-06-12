@@ -1,4 +1,4 @@
-const Linked = require('./linkedList.js');
+const Linked = require('../linkedList.js');
 const LinkedList = Linked.LinkedList;
 const Node = Linked.Node;
 
