@@ -6,4 +6,4 @@ Please feel free to add any.
 
 ## __Questions We Have so Far:__
 
-    * [Midpoint of LinkedList](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists/Midpoint_Of_LinkedList)
+* [Midpoint of LinkedList](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists/Midpoint_Of_LinkedList)
