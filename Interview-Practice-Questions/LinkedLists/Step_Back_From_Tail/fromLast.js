@@ -16,12 +16,28 @@ const Node = L.Node;
 //    fromLast(list, 2).data // 'b'
 
 function fromLast(list, n) {
-
+  /// Create two variables that point to the start of the list.
+  let slow = list.head;
+  let fast = list.head;
+  ///Move fast n so start from n and move down n spaces.
+  while ( n > 0 ){
+    fast = fast.next;
+    n--;
+  }
+  /// While fast has a node that comes after it.
+  while( fast.next ){
+    /// Move fast forward and slow forward.
+    fast = fast.next;
+    slow = slow.next;
+  }
+  // Return slow.
+  return slow;
 }
 
-const list = new List();
+///Creates a list and returns the data of the node 2 back from the end. 
+const list = new LinkedList();
 list.insertLast('a');
 list.insertLast('b');
 list.insertLast('c');
 list.insertLast('d');
-conosle.log(fromLast(list, 2).data); // 'b'
+console.log(fromLast(list, 2).data); // 'b'
