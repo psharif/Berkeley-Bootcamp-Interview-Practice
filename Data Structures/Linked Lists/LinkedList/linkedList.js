@@ -204,4 +204,13 @@ class LinkedList{
   }
 }
 
+const Joel = new LinkedList();
+Joel.insertFirst(8);
+Joel.insertFirst(16);
+Joel.insertLast(9);
+Joel.insertLast(20);
+Joel.insertLast(44);
+
+console.log(Joel);
+
 module.exports = { Node, LinkedList };
