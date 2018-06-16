@@ -2,8 +2,7 @@
 /// The data in both lists will be sorted in ascending order.
 /// Change the next pointers to obtain a single,
 /// merged linked list which also has data in ascending order.
-/// Either head pointer given may be null meaning that the corresponding list is empty.
-
+// Either head pointer given may be null meaning that the corresponding list is empty.
 function mergeLists(head1, head2) {
     if( !head1 || !head2){
         /// If both lists are empty return list 1
@@ -17,18 +16,19 @@ function mergeLists(head1, head2) {
         /// If list 2 is empty return list 1
         return head1;
     }
+
     /// Create a new Linked List
     const mergedList = new SinglyLinkedList();
     /// Add the first node to the list.
     /// If head1's first node data is greater or equal to head2's first node data
     if(head1.data <= head2.data){
         /// Point the head of the list to head1.
-        mergedList.head = new SinglyLinkedListNode(head1.data);
+        mergedList.head = head1;
         /// Increment head1
         head1 = head1.next;
     }else{
         /// Otherwise point the head of the list to head2
-        mergedList.head = new SinglyLinkedListNode(head2.data);
+        mergedList.head = head2;
         /// Increment head2
         head2 = head2.next;
     }
