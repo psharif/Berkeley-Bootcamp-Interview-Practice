@@ -1,5 +1,5 @@
 // PsuedoCode
-// 1. While all the values in the array are different.
+// 1. While all the values in the array aren't the same.
 // 2. Increment Count to the number of times this happens.
 // 3. Find the largest value in the array. And return it's index.
 // 4. Increment all the indices of the elements that don't have that index.
@@ -81,6 +81,6 @@ function allSame(numbers){
   return numbers.every(function(el, index, array){return el === array[0]});
 }
 /// Creates an array of numbers.
-let numbers = [];
+let numbers = [100, 1, 23, 50];
 /// Prints out the count of how many times it took.
 console.log(arrayGame(numbers));
