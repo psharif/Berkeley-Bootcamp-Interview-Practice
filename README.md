@@ -54,6 +54,7 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
 6. [Interview-Practice-Questions](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions)
     * [Arrays](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions)
         * [Array Chunking](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions/ArrayChunking)
+         * [Array Game](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions/ArrayGame)
     * [Strings](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions)
         * [Counting Duplicates](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/CountingDuplicates)
         * [Palindromes](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/Palindrome)
@@ -71,3 +72,8 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
         * [Fibonacci Sequence](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/RecursionProblems/fibonacci)
     * [Linked List Problems](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists)
         * [Find The Midpoint of Linked List](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists/Midpoint_Of_LinkedList)
+         * [Merge Two Linked Lists](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists/MergeLists)
+         * [Step Back From Tail](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists/Step_Back_From_Tail)
+         * [Compare Nodes in Two Linked Lists](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists/CompareLists)
+         * [Is Linked List a Circular List?](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/LinkedLists/Circular_Lists)
+         
