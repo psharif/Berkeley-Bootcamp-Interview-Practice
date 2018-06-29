@@ -55,6 +55,7 @@ Please add go to [Project Tasks](https://github.com/psharif/Berkeley-Bootcamp-In
     * [Arrays](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions)
         * [Array Chunking](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions/ArrayChunking)
          * [Array Game](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions/ArrayGame)
+          * [2D Array: Hour Glass Problem ](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/ArrayQuestions/2DArrayHourGlass)
     * [Strings](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions)
         * [Counting Duplicates](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/CountingDuplicates)
         * [Palindromes](https://github.com/psharif/Berkeley-Bootcamp-Interview-Practice/tree/master/Interview-Practice-Questions/StringQuestions/Palindrome)
